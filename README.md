@@ -13,7 +13,7 @@
  [<img src="https://img.shields.io/badge/Saiham-151515?style=for-the-badge&logo=Codeforces&logoColor=763daf">](https://codeforces.com/profile/Saiham) 
  [<img src="https://img.shields.io/badge/coderabi-151515?style=for-the-badge&logo=CodeChef&logoColor=763daf">](https://www.codechef.com/users/coderabi) 
   
-[![Saiham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SI-Abid&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/SI-Abid)
+[![Saiham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saiham&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/SI-Abid)
 
   
 ![Profile views](https://gpvc.arturio.dev/SI-Abid)
