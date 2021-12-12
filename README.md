@@ -14,6 +14,8 @@
  [<img src="https://img.shields.io/badge/coderabi-151515?style=for-the-badge&logo=CodeChef&logoColor=763daf">](https://www.codechef.com/users/coderabi) 
   
   
+![Profile views](https://gpvc.arturio.dev/SI-Abid)
+  
 <!--
 **SI-Abid/SI-Abid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
