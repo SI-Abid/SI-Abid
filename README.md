@@ -9,9 +9,9 @@
   
 ## My Handles
 <!--  [<img src="https://img.shields.io/badge/ShahjalalShohag-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shahjalal-shohag-394332156/) -->
- [<img src="https://img.shields.io/badge/SI--Abid-151515?style=for-the-badge&logo=GitHub&logoColor=3c79c9">](https://profile-summary-for-github.com/user/SI-Abid) 
- [<img src="https://img.shields.io/badge/Saiham-151515?style=for-the-badge&logo=Codeforces&logoColor=3c79c9">](https://codeforces.com/profile/Saiham) 
- [<img src="https://img.shields.io/badge/coderabi-151515?style=for-the-badge&logo=CodeChef&logoColor=3c79c9">](https://www.codechef.com/users/coderabi) 
+ [<img src="https://img.shields.io/badge/SI--Abid-151515?style=for-the-badge&logo=GitHub&logoColor=763daf">](https://profile-summary-for-github.com/user/SI-Abid) 
+ [<img src="https://img.shields.io/badge/Saiham-151515?style=for-the-badge&logo=Codeforces&logoColor=763daf">](https://codeforces.com/profile/Saiham) 
+ [<img src="https://img.shields.io/badge/coderabi-151515?style=for-the-badge&logo=CodeChef&logoColor=763daf">](https://www.codechef.com/users/coderabi) 
   
   
 <!--
