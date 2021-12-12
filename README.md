@@ -1,4 +1,4 @@
-### My Github Stats 👋
+### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SI-Abid&show_icons=true&count_private=true&theme=tokyonight" />  
   
 ### My Stacks
@@ -10,8 +10,8 @@
 ## My Handles
 <!--  [<img src="https://img.shields.io/badge/ShahjalalShohag-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shahjalal-shohag-394332156/) -->
  [<img src="https://img.shields.io/badge/SI--Abid-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/SI-Abid) 
- [<img src="https://img.shields.io/badge/Saiham-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/Saiham) 
- [<img src="https://img.shields.io/badge/coderabi-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/coderabi) 
+ [<img src="https://img.shields.io/badge/Saiham-151515?style=for-the-badge&logo=Codeforces&logoColor=79740e">](https://codeforces.com/profile/Saiham) 
+ [<img src="https://img.shields.io/badge/coderabi-151515?style=for-the-badge&logo=CodeChef&logoColor=79740e">](https://www.codechef.com/users/coderabi) 
   
   
 <!--
