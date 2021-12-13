@@ -15,8 +15,6 @@
   
 
 ### My Weekly Updates
-[![Saiham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saiham&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
   
 <!--START_SECTION:waka-->
 ```text
