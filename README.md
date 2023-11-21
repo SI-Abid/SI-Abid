@@ -19,7 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       12 hrs 48 mins  ████████████░░░░░░░░░░░░░   47.78 %
+HTML         12 hrs 28 mins  ███████████▓░░░░░░░░░░░░░   46.55 %
+C++          1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+CSS          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
