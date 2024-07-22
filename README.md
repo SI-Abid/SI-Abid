@@ -19,11 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr            █████████████████▒░░░░░░░   69.85 %
-INI          19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Git          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
