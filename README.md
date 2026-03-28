@@ -19,8 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Godot Resource   13 mins               █████████████████████░░░░   83.91 %
-GDScript3        2 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
+Godot Resource   13 mins               ████████████▓░░░░░░░░░░░░   50.15 %
+RPMSpec          8 mins                ████████░░░░░░░░░░░░░░░░░   32.36 %
+GDScript3        2 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Python           1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+Markdown         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
