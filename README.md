@@ -19,9 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-RPMSpec    8 mins                ████████████████████░░░░░   80.43 %
-Python     1 min                 ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-Markdown   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
